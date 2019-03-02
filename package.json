@@ -1,0 +1,20 @@
+{
+  "name": "pooja",
+  "version": "1.0.0",
+  "description": "\"# poojaBday\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilXavier995/poojaBday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilXavier995/poojaBday/issues"
+  },
+  "homepage": "https://github.com/akhilXavier995/poojaBday#readme"
+}
